@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-molnaraipublic-dev-173424-authRole",
+      "UnauthRoleArn": "arn:aws:iam::986737456425:role/amplify-molnaraipublic-dev-173424-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::986737456425:role/amplify-molnaraipublic-dev-173424-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-molnaraipublic-dev-173424-deployment",
+      "UnauthRoleName": "amplify-molnaraipublic-dev-173424-unauthRole",
+      "StackName": "amplify-molnaraipublic-dev-173424",
+      "StackId": "arn:aws:cloudformation:us-east-1:986737456425:stack/amplify-molnaraipublic-dev-173424/5d1df910-12b5-11ee-a8e6-0eeebcc3ca8d",
+      "AmplifyAppId": "d1rd2rrs12eafi"
+    },
+    "categories": {
+      "api": {
+        "molnaraipublic": {}
+      }
+    }
+  }
+}

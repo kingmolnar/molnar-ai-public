@@ -1,0 +1,22 @@
+{
+  "api": {
+    "molnaraipublic": {
+      "dependsOn": [],
+      "output": {
+        "authConfig": {
+          "additionalAuthenticationProviders": [],
+          "defaultAuthentication": {
+            "apiKeyConfig": {
+              "apiKeyExpirationDate": "2024-06-23T18:02:05.431Z",
+              "apiKeyExpirationDays": 365,
+              "description": "default api key"
+            },
+            "authenticationType": "API_KEY"
+          }
+        }
+      },
+      "providerPlugin": "awscloudformation",
+      "service": "AppSync"
+    }
+  }
+}
